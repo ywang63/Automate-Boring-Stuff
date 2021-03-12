@@ -1,14 +1,11 @@
 # Automate-Boring-Stuff
-This repository includes codes I used to automate boring stuff with Excel.
+This repository includes codes I used to automate boring stuff with Excel. All data are dummy data, created in Excel with random generation formula for privacy concerns. 
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
-
-
-All data are dummy data, created in Excel with random generation formula for privacy concerns. 
 
 
 ## Installation <a name="installation"></a>

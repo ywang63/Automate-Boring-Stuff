@@ -22,8 +22,8 @@ Markdown cells were used to explain my thought process and structure of the proj
 ## Results <a name="results"></a>
 Once the code is finished running, you should expect:
 - Mutiple Excel workbooks with each market data split. 
-- Each tab represents each dealer. 
-- Two additional tabs: a total summary of base data, and a total summary of add-on data.
+- Each tab (with dealer name) represents each dealer's base data. 
+- Two additional tabs: a total summary of base data (with market as tab name), and a total summary of add-on data (with market_add-on as tab name).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
